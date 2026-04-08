@@ -1,0 +1,7 @@
+C:\Users\alumno\source\repos\Trabajo\Principal\bin\Debug\Principal.exe.config
+C:\Users\alumno\source\repos\Trabajo\Principal\bin\Debug\Principal.exe
+C:\Users\alumno\source\repos\Trabajo\Principal\bin\Debug\Principal.pdb
+C:\Users\alumno\source\repos\Trabajo\Principal\obj\Debug\Principal.csproj.AssemblyReference.cache
+C:\Users\alumno\source\repos\Trabajo\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\Trabajo\Principal\obj\Debug\Principal.exe
+C:\Users\alumno\source\repos\Trabajo\Principal\obj\Debug\Principal.pdb
